@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=CarolinaQATester&color=006bed)
 
 # Carolina Mesquita&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
@@ -66,10 +66,16 @@
 
 <br/>
 
+<a href="https://wakatime.com/@carolinachm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+
+<br/>
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-mesquita-94401b65/)](https://www.linkedin.com/in/carolina-mesquita-94401b65/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chmqatester@gmail.com)](mailto:chmqatester@gmail.com
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-mesquita-94401b65/)](https://www.linkedin.com/in/carolina-mesquita-94401b65/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chmqatester@gmail.com)](mailto:chmqatester@gmail.com
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/Carolina?label=follow&style=social)](https://github.com/CarolinaQATester)
 
 
