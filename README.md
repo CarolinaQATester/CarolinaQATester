@@ -18,9 +18,9 @@
 
 ## About me
 
-[![Github Badge](https://github.com/CarolinaQATester)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
-[![Linkedin Badge](https://www.linkedin.com/in/carolina-mesquita-94401b65/)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 
 
@@ -32,9 +32,10 @@
 
 *OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
-(SEU NOME) = Hellen.
+(SEU NOME) = Carolina Mesquita.
 
-LINK_GIT = https://github.com/hellenmas.
+LINK_GIT = https://github.com/CarolinaQATester
+LINK_LINKEDIN = https://www.linkedin.com/in/carolina-mesquita-94401b65/
 
 
 
