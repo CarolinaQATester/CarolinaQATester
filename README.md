@@ -32,10 +32,9 @@
 
 *OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
-(SEU NOME) = Carolina Mesquita.
-
-LINK_GIT = https://github.com/CarolinaQATester
-LINK_LINKEDIN = https://www.linkedin.com/in/carolina-mesquita-94401b65/
+Carolina Mesquita.
+https://github.com/CarolinaQATester
+https://www.linkedin.com/in/carolina-mesquita-94401b65/
 
 
 
@@ -73,9 +72,9 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 - Mas não se esqueça que você deve editar com suas informações por exemplo:
 
-NOMEGIT= hellenmas. 
+NOMEGIT= Carolina. 
 
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
+[![Carolina GitHub stats](https://github-readme-stats.vercel.app/api?username=carolina)](https://github.com/hellenmas/github-readme-stats)
 
 
 
