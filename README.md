@@ -62,19 +62,23 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
 Blocos
--  Para adicionar blocos, temos varias opções no link abaixo:
+Usage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Exclude individual repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+Hide individual languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github.com/anuraghazra/github-readme-stats#themes
+Show more languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-- Após escolher seu bloco copie a URL e cole em seu README:
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
-- Mas não se esqueça que você deve editar com suas informações por exemplo:
 
-NOMEGIT= Carolina. 
 
-[![Carolina GitHub stats](https://github-readme-stats.vercel.app/api?username=carolina)](https://github.com/hellenmas/github-readme-stats)
+Wakatime Week Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
