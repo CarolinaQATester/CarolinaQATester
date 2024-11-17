@@ -1,87 +1,79 @@
+# 👩‍💻 **Carolina Mesquita** | Desenvolvedora | Estudante de ADS | Especialista em Qualidade de Software
 
-![](https://komarev.com/ghpvc/?username=CarolinaQATester&color=006bed)
+Olá! Eu sou a **Carolina Mesquita**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e uma apaixonada pela área de **desenvolvimento de software** e **qualidade de software**. 💻 Atualmente, trabalho na área de **qualidade de software**, onde aplico minhas habilidades para garantir que as soluções entregues sejam de alta qualidade.
 
-# Carolina Mesquita&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+Minha jornada no mundo da tecnologia começou com o desenvolvimento de software, mas ao longo do tempo, encontrei uma verdadeira paixão pela **qualidade de software**. O teste de software, automação de testes e metodologias ágeis são os pilares do meu trabalho atual.
 
+---
 
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
--->
+### 🚀 **Minhas habilidades em Teste de Software:**
+- **Testes Manuais**  
+- **Automação de Testes**:
+  - **Selenium WebDriver**
+  - **Cypress**
+  - **Robot Framework**
+  - **JUnit**
+  - **Cucumber**
+  - **K6**
+  - **JMeter**
+  - **Appium**
+  - **Postman**
+  - **RestAssured**
+- **Versionamento de Código**:
+  - **Git**
+  - **GitHub**
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+### 🛠️ **Metodologias Ágeis e Ferramentas:**
+- **Scrum** e **Kanban**  
+- **Jira**  
+- **Azure DevOps**  
+- **RQM (Rational Quality Manager)**  
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+---
 
-<p>
-  <em>
-    I am an undergraduate in the systems analysis and development course. I have knowledge in systems development with java and spring boot, I am currently a software testing analyst and specializing in the area of software quality
-  </em>  
-</p>
+### 💡 **O que me motiva:**
+- Garantir a qualidade e a confiabilidade do software em todas as fases do ciclo de vida do desenvolvimento.
+- Utilizar ferramentas e tecnologias de ponta para automatizar e otimizar processos de testes.
+- Trabalhar de forma colaborativa em equipes ágeis para entregar produtos com alto valor para os usuários finais.
+- Continuar aprendendo e me aperfeiçoando nas melhores práticas de qualidade de software e desenvolvimento.
 
-<br>
+---
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+### 👩‍💻 **Carolina Mesquita** | Developer | ADS Student | Software Quality Specialist
 
-**Aplicações e Dados**
+Hi! I'm **Carolina Mesquita**, a student of **Analysis and Systems Development (ADS)** and a passionate software developer, with a focus on **software development** and **software quality**. 💻 Currently, I work in the **software quality** field, where I apply my skills to ensure that the solutions delivered are of the highest quality.
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![SELEMIUN WEBBDRIVER](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-  ![CYPRESS](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-  ![JUNIT](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+My journey in the tech world started with software development, but over time, I found a real passion for **software quality**. Software testing, test automation, and agile methodologies are the cornerstones of my current work.
 
+---
 
-**Utilidades**
+### 🚀 **My Software Testing Skills:**
+- **Manual Testing**  
+- **Test Automation**:
+  - **Selenium WebDriver**
+  - **Cypress**
+  - **Robot Framework**
+  - **JUnit**
+  - **Cucumber**
+  - **K6**
+  - **JMeter**
+  - **Appium**
+  - **Postman**
+  - **RestAssured**
+- **Version Control**:
+  - **Git**
+  - **GitHub**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+### 🛠️ **Agile Methodologies & Tools:**
+- **Scrum** and **Kanban**  
+- **Jira**  
+- **Azure DevOps**  
+- **RQM (Rational Quality Manager)**  
 
-**DevOps**
+---
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-  ![JENKINS](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-  ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-  ![AZURE DEVOPS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![INTELLIJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  
-<br/>
-
-<a href="https://github.com/CarolinaQATester">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinachm&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
- [![carolinachm wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carolinachm)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-mesquita-94401b65/)](https://www.linkedin.com/in/carolina-mesquita-94401b65/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chmqatester@gmail.com)](mailto:chmqatester@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/Carolina?label=follow&style=social)](https://github.com/CarolinaQATester)
-
-
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-                                                                                        
- 
-
+### 💡 **What drives me:**
+- Ensuring the quality and reliability of software throughout the entire development lifecycle.
+- Using cutting-edge tools and technologies to automate and optimize testing processes.
+- Collaborating in agile teams to deliver high-value products to end-users.
+- Continuously learning and improving in software quality practices and development.
